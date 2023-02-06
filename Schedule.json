@@ -19,7 +19,7 @@
         [
             {
                 "shifts": "morning",
-                "numberOfEmployeesNeeded": "2",
+                "numberOfEmployeesNeeded": "3",
                 "managerNeeded": "false"
             },
             {
@@ -39,7 +39,7 @@
             },
             {
                 "shifts": "evening",
-                "numberOfEmployeesNeeded": "2",
+                "numberOfEmployeesNeeded": "1",
                 "managerNeeded": "false"
             }
         ]
@@ -54,7 +54,7 @@
             },
             {
                 "shifts": "evening",
-                "numberOfEmployeesNeeded": "2",
+                "numberOfEmployeesNeeded": "1",
                 "managerNeeded": "false"
             }
         ]

@@ -1,0 +1,78 @@
+{
+    "Monday": {
+        "timesWeNeedWorkers":
+        [
+            {
+                "shifts": "morning",
+                "numberOfEmployeesNeeded": "2",
+                "managerNeeded": "false"
+            },
+            {
+                "shifts": "evening",
+                "numberOfEmployeesNeeded": "2",
+                "managerNeeded": "false"
+            }
+        ]
+    },
+    "Tuesday": {
+        "timesWeNeedWorkers":
+        [
+            {
+                "shifts": "morning",
+                "numberOfEmployeesNeeded": "2",
+                "managerNeeded": "false"
+            },
+            {
+                "shifts": "evening",
+                "numberOfEmployeesNeeded": "2",
+                "managerNeeded": "false"
+            }
+        ]
+    },
+    "Wednesday": {
+        "timesWeNeedWorkers":
+        [
+            {
+                "shifts": "morning",
+                "numberOfEmployeesNeeded": "2",
+                "managerNeeded": "false"
+            },
+            {
+                "shifts": "evening",
+                "numberOfEmployeesNeeded": "2",
+                "managerNeeded": "false"
+            }
+        ]
+    },
+    "Thursday": {
+        "timesWeNeedWorkers":
+        [
+            {
+                "shifts": "morning",
+                "numberOfEmployeesNeeded": "2",
+                "managerNeeded": "false"
+            },
+            {
+                "shifts": "evening",
+                "numberOfEmployeesNeeded": "2",
+                "managerNeeded": "false"
+            }
+        ]
+    },
+    "Friday": {
+        "timesWeNeedWorkers":
+        [
+            {
+                "shifts": "morning",
+                "numberOfEmployeesNeeded": "2",
+                "managerNeeded": "false"
+            },
+            {
+                "shifts": "evening",
+                "numberOfEmployeesNeeded": "2",
+                "managerNeeded": "false"
+            }
+        ]
+    }
+    
+}

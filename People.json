@@ -12,7 +12,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Tuesday": {
@@ -25,7 +25,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Wednesday": {
@@ -38,7 +38,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Thursday": {
@@ -51,7 +51,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Friday": {
@@ -64,7 +64,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "hoursDesired": "40",
@@ -82,7 +82,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Tuesday": {
@@ -95,7 +95,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Wednesday": {
@@ -108,7 +108,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Thursday": {
@@ -121,7 +121,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Friday": {
@@ -134,7 +134,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "hoursDesired": "40",
@@ -152,7 +152,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Tuesday": {
@@ -165,7 +165,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Wednesday": {
@@ -178,7 +178,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Thursday": {
@@ -191,7 +191,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Friday": {
@@ -204,7 +204,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "hoursDesired": "40",
@@ -222,7 +222,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Tuesday": {
@@ -235,7 +235,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Wednesday": {
@@ -248,7 +248,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Thursday": {
@@ -261,7 +261,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Friday": {
@@ -274,7 +274,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "hoursDesired": "40",
@@ -292,7 +292,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Tuesday": {
@@ -305,7 +305,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Wednesday": {
@@ -318,7 +318,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Thursday": {
@@ -331,7 +331,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Friday": {
@@ -344,7 +344,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "hoursDesired": "40",
@@ -362,7 +362,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Tuesday": {
@@ -375,7 +375,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Wednesday": {
@@ -388,7 +388,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Thursday": {
@@ -401,7 +401,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Friday": {
@@ -414,7 +414,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "hoursDesired": "40",
@@ -432,7 +432,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Tuesday": {
@@ -445,7 +445,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Wednesday": {
@@ -458,7 +458,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Thursday": {
@@ -471,7 +471,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Friday": {
@@ -484,7 +484,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "hoursDesired": "40",
@@ -502,7 +502,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Tuesday": {
@@ -515,7 +515,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Wednesday": {
@@ -528,7 +528,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Thursday": {
@@ -541,7 +541,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Friday": {
@@ -554,7 +554,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "hoursDesired": "40",
@@ -572,7 +572,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Tuesday": {
@@ -585,7 +585,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Wednesday": {
@@ -598,7 +598,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Thursday": {
@@ -611,7 +611,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Friday": {
@@ -624,7 +624,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "hoursDesired": "40",
@@ -642,7 +642,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Tuesday": {
@@ -655,7 +655,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Wednesday": {
@@ -668,7 +668,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "Thursday": {
@@ -681,7 +681,7 @@
                     {
                         "shifts": "evening",
                         "available": "1"
-                    },
+                    }
                 ]
             },
             "Friday": {
@@ -694,7 +694,7 @@
                     {
                         "shifts": "evening",
                         "available": "0"
-                    },
+                    }
                 ]
             },
             "hoursDesired": "40",

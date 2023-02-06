@@ -1,0 +1,706 @@
+{
+    "People": 
+    [
+        {
+            "Monday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Tuesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Wednesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Thursday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Friday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "hoursDesired": "40",
+            "isManager": "false",
+            "name": "W1"
+        },
+        {
+            "Monday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Tuesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Wednesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Thursday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Friday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "hoursDesired": "40",
+            "isManager": "false",
+            "name": "W2"
+        },
+        {
+            "Monday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Tuesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Wednesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Thursday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Friday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "hoursDesired": "40",
+            "isManager": "false",
+            "name": "W3"
+        },
+        {
+            "Monday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Tuesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Wednesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Thursday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Friday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "hoursDesired": "40",
+            "isManager": "false",
+            "name": "W4"
+        },
+        {
+            "Monday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Tuesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Wednesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Thursday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Friday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "hoursDesired": "40",
+            "isManager": "false",
+            "name": "W5"
+        },
+        {
+            "Monday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Tuesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Wednesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Thursday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Friday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "hoursDesired": "40",
+            "isManager": "false",
+            "name": "W6"
+        },
+        {
+            "Monday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Tuesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Wednesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Thursday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Friday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "hoursDesired": "40",
+            "isManager": "false",
+            "name": "W7"
+        },
+        {
+            "Monday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Tuesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Wednesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Thursday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Friday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "hoursDesired": "40",
+            "isManager": "false",
+            "name": "W8"
+        },
+        {
+            "Monday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Tuesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Wednesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Thursday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Friday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "hoursDesired": "40",
+            "isManager": "false",
+            "name": "W9"
+        },
+        {
+            "Monday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Tuesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Wednesday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "Thursday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "1"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "1"
+                    },
+                ]
+            },
+            "Friday": {
+                "freeTimes":
+                [
+                    {
+                        "shifts": "morning",
+                        "available": "0"
+                    },
+                    {
+                        "shifts": "evening",
+                        "available": "0"
+                    },
+                ]
+            },
+            "hoursDesired": "40",
+            "isManager": "false",
+            "name": "W10"
+        },
+
+    ]
+}

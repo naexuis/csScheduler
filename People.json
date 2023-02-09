@@ -418,7 +418,7 @@
                 ]
             },
             "hoursDesired": "40",
-            "isManager": "false",
+            "isManager": "true",
             "name": "W6"
         },
         {
@@ -637,7 +637,7 @@
                 [
                     {
                         "shifts": "morning",
-                        "available": "0"
+                        "available": "1"
                     },
                     {
                         "shifts": "evening",
@@ -663,11 +663,11 @@
                 [
                     {
                         "shifts": "morning",
-                        "available": "0"
+                        "available": "1"
                     },
                     {
                         "shifts": "evening",
-                        "available": "0"
+                        "available": "1"
                     }
                 ]
             },
@@ -689,16 +689,16 @@
                 [
                     {
                         "shifts": "morning",
-                        "available": "0"
+                        "available": "1"
                     },
                     {
                         "shifts": "evening",
-                        "available": "0"
+                        "available": "1"
                     }
                 ]
             },
             "hoursDesired": "40",
-            "isManager": "false",
+            "isManager": "true",
             "name": "W10"
         }
 

@@ -4,13 +4,13 @@
         [
             {
                 "shifts": "morning",
-                "numberOfEmployeesNeeded": "2",
+                "numberOfEmployeesNeeded": "5",
                 "managerNeeded": "false"
             },
             {
                 "shifts": "evening",
-                "numberOfEmployeesNeeded": "2",
-                "managerNeeded": "false"
+                "numberOfEmployeesNeeded": "9",
+                "managerNeeded": "true"
             }
         ]
     },
@@ -19,13 +19,13 @@
         [
             {
                 "shifts": "morning",
-                "numberOfEmployeesNeeded": "3",
+                "numberOfEmployeesNeeded": "5",
                 "managerNeeded": "false"
             },
             {
                 "shifts": "evening",
-                "numberOfEmployeesNeeded": "0",
-                "managerNeeded": "false"
+                "numberOfEmployeesNeeded": "9",
+                "managerNeeded": "true"
             }
         ]
     },
@@ -34,13 +34,13 @@
         [
             {
                 "shifts": "morning",
-                "numberOfEmployeesNeeded": "2",
+                "numberOfEmployeesNeeded": "5",
                 "managerNeeded": "false"
             },
             {
                 "shifts": "evening",
-                "numberOfEmployeesNeeded": "1",
-                "managerNeeded": "false"
+                "numberOfEmployeesNeeded": "9",
+                "managerNeeded": "true"
             }
         ]
     },
@@ -49,13 +49,13 @@
         [
             {
                 "shifts": "morning",
-                "numberOfEmployeesNeeded": "2",
+                "numberOfEmployeesNeeded": "5",
                 "managerNeeded": "false"
             },
             {
                 "shifts": "evening",
-                "numberOfEmployeesNeeded": "1",
-                "managerNeeded": "false"
+                "numberOfEmployeesNeeded": "9",
+                "managerNeeded": "true"
             }
         ]
     },
@@ -64,13 +64,13 @@
         [
             {
                 "shifts": "morning",
-                "numberOfEmployeesNeeded": "0",
+                "numberOfEmployeesNeeded": "6",
                 "managerNeeded": "false"
             },
             {
                 "shifts": "evening",
-                "numberOfEmployeesNeeded": "2",
-                "managerNeeded": "false"
+                "numberOfEmployeesNeeded": "11",
+                "managerNeeded": "true"
             }
         ]
     }
